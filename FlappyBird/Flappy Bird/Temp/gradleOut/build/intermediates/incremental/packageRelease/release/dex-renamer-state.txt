@@ -1,0 +1,4 @@
+#Sat Jul 20 00:49:04 ICT 2019
+base.0=/home/trung/Documents/Unity/FirstFlappy/Flappy Bird/Temp/gradleOut/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
